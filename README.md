@@ -4,7 +4,7 @@ Hi there 👋 I'm Pedro F.
 
 <div>
   <a href="https://github.com/Fpereirinha">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fpereirinha)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fpereirinha&show_icons=true&theme=dark&count_private=true&include_all_commits=false"/>
   
    ##
   
