@@ -8,7 +8,7 @@ Hi there 👋 I'm Pedro F.
   
    ##
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fpereirinha&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fpereirinha&layout=compact&langs_count=4&theme=dark"/>
 </div>
 
 
