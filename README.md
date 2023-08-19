@@ -4,7 +4,7 @@ Hi there 👋 I'm Pedro F.
 
 <div>
   <a href="https://github.com/Fpereirinha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fpereirinha&show_icons=true&theme=dark&count_private=true&include_all_commits=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fpereirinha&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
   
    ##
   
